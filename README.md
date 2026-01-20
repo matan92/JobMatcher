@@ -55,8 +55,8 @@ npm run dev
 ## 👤 Author
 
 Matan Avnon
-- GitHub: [@YOUR_USERNAME](https://github.com/matan92)
-- LinkedIn: [Your Profile](https://linkedin.com/in/matan-avnon)
+- GitHub: (https://github.com/matan92)
+- LinkedIn: (https://linkedin.com/in/matan-avnon)
 
 ## 🙏 Acknowledgments
 
